@@ -1,6 +1,13 @@
-### Hi there 👋
+### 🏆 Github Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MartinHelwig)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MartinHelwig&&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=MartinHelwig&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHelwig&layout=compact" />
+</div>
 
 <!--
 **MartinHelwig/MartinHelwig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
